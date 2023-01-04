@@ -10,4 +10,4 @@ You can download dataset on this link -> [Here](https://github.com/dicodingacade
 
 
 
-![image info](./image/result.png)
+![image info](./result_prediction.png)
