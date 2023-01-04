@@ -6,4 +6,8 @@ Author : Ricky Ariansyah
 
 Dataset : Rock-Paper-Scissor
 
-[Here](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip.)
+You can download dataset on this link -> [Here](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip.)
+
+
+
+![image info](./image/result.png)
